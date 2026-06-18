@@ -3,14 +3,7 @@
   <strong>Backend-разработчик (Python / Django / FastAPI)</strong>
 </p>
 
-<p align="center">
-  <a href="https://t.me/nm_2110" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@nm__2110-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="tel:0552450777">
-    <img src="https://img.shields.io/badge/Телефон-0552450777-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Телефон" />
-  </a>
-</p>
+
 
 ---
 
@@ -72,6 +65,5 @@
 
 ---
 
-### 📞 Контакты для связи
-* **Telegram:** [@nm_2110](https://t.me/nm_2110)
-* **Телефон:** 0552450777
+### 📞   связ cо мной 
+* 📧 Email: [nurullomusajanov395@gmail.com](mailto:nurullomusajanov395@gmail.com)
