@@ -57,21 +57,28 @@ Developed independently. Backend-focused Django application — repository shows
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" alt="Top languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" alt="Profile summary" /></td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="180" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="180" />
+    </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" alt="Profile summary" width="100%" style="max-width: 850px;" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm-backend&theme=dark&hide_border=true" alt="GitHub streak stats" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nm-backend&theme=react-dark" alt="Activity graph" />
 
 ### 📅 Contributions
-<img src="https://ghchart.rshah.org/nm-backend" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/nm-backend" alt="Contribution graph" width="100%" style="max-width: 850px;" />
 
 </div>
 
