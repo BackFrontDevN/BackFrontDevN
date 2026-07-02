@@ -1,115 +1,68 @@
-# Nurullo Musajanov
-
 <div align="center">
 
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=36&duration=2500&pause=1000&color=ffffff&center=true&width=900&height=90&lines=Python+Backend+Developer;Django+API+Architect;Clean+Code+Enthusiast)
+# Backend Developer
+
+```
+██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
+██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
+██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+**Nurullo Musajanov** | Osh, Kyrgyzstan  
+Python Backend Developer | Django & FastAPI Specialist
 
 </div>
 
 ---
 
-## 👤 About Me
+## About
+
+Backend developer specializing in scalable Python applications. Experienced in building RESTful APIs with Django and Django REST Framework. Proven track record in freelance backend development and Telegram bot integration. Focused on clean code, performance optimization, and maintainable architecture.
+
+---
+
+## Tech Stack
+
+| **Language** | **Backend** | **Database** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| | ![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white) | | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+## Featured Project
+
+### 🔧 Nerzhaveyka
+**Django REST Framework API Backend**
+
+Complete backend solution for a production-grade application featuring RESTful API architecture, PostgreSQL database design, and authentication implementation. Demonstrates expertise in API design patterns, database optimization, and deployment best practices.
+
+**Tech:** Python · Django · DRF · PostgreSQL · Docker
+
+---
+
+## Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django&theme=dark" width="80" alt="Python & Django" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-**Backend developer** focused on Python and Django<br/>
-I build clear, maintainable APIs and backend components<br/>
-Open to remote Python/Django opportunities<br/>
-📍 Based in Osh, Kyrgyzstan
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Connect
 
 <div align="center">
 
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker&theme=dark" width="280" alt="Backend Stack" />
-
-### Frontend & Tools
-
-<img src="https://skillicons.dev/icons?i=javascript,html,css,git,github&theme=dark" width="280" alt="Frontend & Tools" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-**Django** · **Django REST Framework** · **PostgreSQL**<br/>
-**Docker** (learning) · **FastAPI** (learning)
-
-</div>
-
----
-
-## 🚀 Featured Project — Nerzhaveyka
-
-<div align="center">
-
-**Backend-focused Django application**
-
-Developed independently. Repository shows the implementation and how to run the project.
-
-**Tech:** Python · Django · Django REST Framework · PostgreSQL / SQLite · HTML/CSS
-
-<br/>
-
-<a href="https://github.com/nm-backend/nerzhaveyka"><img src="https://img.shields.io/badge/📁_View_Repository-Nerzhaveyka-111827?style=for-the-badge&logo=github&logoColor=white" alt="Nerzhaveyka" /></a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" width="400" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" width="350" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" alt="Profile summary" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nm-backend&theme=dark&row=1&column=4" alt="GitHub trophies" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=nm-backend&theme=dark&hide_border=true&background=0d1117" alt="GitHub streak stats" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/nm-backend"><img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/nurullo-musajanov-040b31337/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/nm_2110"><img src="https://img.shields.io/badge/Telegram-Send_Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:nurullomusajanov395@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-**Design:** modern · minimal · premium · dark-friendly<br/>
-**Focus:** visual-first, recruiter-focused
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nm-backend)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nm_backend)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
