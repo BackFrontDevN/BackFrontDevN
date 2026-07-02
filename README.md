@@ -73,6 +73,9 @@ Developed independently. Repository shows the implementation and how to run the 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" width="400" />
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" width="350" />
 
 <br/>
