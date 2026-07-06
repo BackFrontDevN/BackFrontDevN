@@ -82,7 +82,7 @@ Keep screenshots focused on app UI or API responses and avoid sensitive data.
 <img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true" />
 
 <!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" /> -->
 
 <!-- Summary & trophies -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" />
